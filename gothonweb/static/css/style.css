@@ -1,0 +1,30 @@
+body {
+  background: gray;
+}
+
+.room_wrapper {
+  margin: auto;
+  width: 600px;
+  background: black;
+  color: white; 
+  padding: 20px;
+}
+
+h1 {
+  text-align:  center;
+  font-family: Courier;
+}
+
+input {
+  display: block;
+  margin: auto;
+  width: 500px;
+  font-family: Courier;
+  background: DimGray;
+  color: white;
+}
+
+p {
+  align:center;
+  font-family: Courier;
+}
