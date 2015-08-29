@@ -111,7 +111,7 @@ module Map
     '2' => THE_END_WINNER,
     '*' => THE_END_LOSER})
 
-  THROW_DEATH = Room.new("death",
+  THROW_DEATH = Room.new("The End",
     """
     In a panic you throw the bomb at the group of Gothons
     and make a leap for the door.  Right as you drop it a
@@ -124,7 +124,7 @@ module Map
     'throw the bomb' => THROW_DEATH,
     'slowly place the bomb' => ESCAPE_POD})
 
-  ARMORY_DEATH = Room.new("death", 
+  ARMORY_DEATH = Room.new("The End", 
     """
     The lock buzzes one last time and then you hear a sickening
     melting sound as the mechanism is fused together.
@@ -136,7 +136,7 @@ module Map
     '*' => ARMORY_DEATH})
 
   # Central Corridor Deaths
-  SHOOT_DEATH = Room.new("death", 
+  SHOOT_DEATH = Room.new("The End", 
     """
     Quick on the draw you yank out your blaster and fire it at the Gothon.
     His clown costume is flowing and moving around his body, which throws
@@ -145,7 +145,7 @@ module Map
     makes him fly into an insane rage and blast you repeatedly in the face 
     until you are dead. Then he eats you.
     """)
-  DODGE_DEATH = Room.new("death",
+  DODGE_DEATH = Room.new("The End",
     """
     Like a world class boxer you dodge, weave, slip and slide right
     as the Gothon's blaster cranks a laser past your head.
@@ -173,6 +173,10 @@ module Map
       'THE_END_WINNER' => THE_END_WINNER,
       'THE_END_LOSER' => THE_END_LOSER,
       'START' => START,
+      'DODGE_DEATH' => DODGE_DEATH,
+      'SHOOT_DEATH'=>SHOOT_DEATH,
+      'ARMORY_DEATH'=>ARMORY_DEATH,
+      'THROW_DEATH'=>THROW_DEATH
   }
 
   def Map::load_room(session)

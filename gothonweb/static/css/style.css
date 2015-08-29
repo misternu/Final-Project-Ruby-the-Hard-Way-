@@ -1,5 +1,6 @@
 body {
   background: gray;
+  font-family: Courier;
 }
 
 .room_wrapper {
@@ -7,12 +8,17 @@ body {
   width: 600px;
   background: black;
   color: white; 
-  padding: 20px;
+  padding: 30px;
 }
 
 h1 {
   text-align:  center;
-  font-family: Courier;
+}
+
+p {
+  display: block;
+  margin:auto;
+  width:500px;
 }
 
 input {
@@ -24,7 +30,7 @@ input {
   color: white;
 }
 
-p {
-  align:center;
-  font-family: Courier;
+a, a:hover, a:active, a:visited { 
+  align: center;
+  color: white; 
 }
