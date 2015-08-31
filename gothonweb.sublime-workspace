@@ -1,1 +1,433 @@
-{}
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Throw",
+				"THROW_DEATH"
+			],
+			[
+				"dod",
+				"DODGE_DEATH"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"bottom",
+				"padding-bottom"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"B",
+				"THE_BRIDGE"
+			],
+			[
+				"L",
+				"LASER_WEAPON_ARMORY"
+			],
+			[
+				"laser",
+				"laser_weapon_armory"
+			],
+			[
+				"txt",
+				"txt_again"
+			],
+			[
+				"us",
+				"unless	unless … end"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 347.0,
+		"last_filter": "inden",
+		"selected_items":
+		[
+			[
+				"inden",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pretty",
+				"HTMLPrettify"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"list pack",
+				"Package Control: List Packages"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"folder",
+				"Project: Add Folder"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"inde",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"pro",
+				"Project: Add Folder"
+			],
+			[
+				"project",
+				"Project: Add Folder"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 181.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/misternu/Projects/Ruby Hard Way/RTHW Final Project/gothonweb"
+	],
+	"file_history":
+	[
+		"/Users/misternu/Projects/vagrant_getting_started/Vagrantfile",
+		"/Users/misternu/Projects/Ruby Hard Way/RTHW Final Project/gothonweb/bin/app.rb",
+		"/Users/misternu/Projects/Ruby Hard Way/RTHW Final Project/gothonweb/views/show_room.erb",
+		"/Users/misternu/Projects/Ruby Hard Way/RTHW Final Project/gothonweb/lib/gothonweb/map.rb",
+		"/Users/misternu/Projects/Ruby Hard Way/RTHW Final Project/ex43.rb",
+		"/Users/misternu/Projects/Ruby Hard Way/RTHW Final Project/gothonweb/tests/test_map.rb",
+		"/Users/misternu/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/misternu/Projects/Ruby Hard Way/RTHW Final Project/gothonweb/static/css/style.css",
+		"/Users/misternu/Projects/Ruby Hard Way/RTHW Final Project/gothonweb/views/you_died.erb",
+		"/Users/misternu/Projects/Ruby Hard Way/RTHW Final Project/gothonweb/.gitignore",
+		"/Users/misternu/Projects/Ruby Hard Way/RTHW Final Project/gothonweb.sublime-project",
+		"/Users/misternu/Projects/Ruby Hard Way/RTHW Final Project/gothonweb/gothonweb.sublime-project",
+		"/Users/misternu/Projects/Ruby Hard Way/RTHW Final Project/gothonweb/views/layout.erb",
+		"/Users/misternu/Projects/Ruby Hard Way/RTHW Final Project/gothonweb/tests/test_gothonweb.rb",
+		"/Users/misternu/Projects/Ruby Hard Way/RTHW Final Project/views/show_room.erb",
+		"/Users/misternu/Projects/Ruby Hard Way/gothonweb/views/index.erb",
+		"/Users/misternu/Projects/Ruby Hard Way/gothonweb/bin/app.rb",
+		"/Users/misternu/Projects/Ruby Hard Way/gothonweb/views/hello_form.erb",
+		"/Users/misternu/Projects/Ruby Hard Way/gothonweb/views/layout.erb",
+		"/Users/misternu/Projects/Ruby Hard Way/gothonweb/tests/test_gothonweb.rb",
+		"/Users/misternu/Projects/Ruby Hard Way/gothonweb/gothonweb.gemspec",
+		"/Users/misternu/Documents/Projects/Ruby Hard Way/ex48/lib/ex48/parser.rb",
+		"/Users/misternu/Documents/Projects/Ruby Hard Way/ex48/lib/ex48.rb",
+		"/Users/misternu/Documents/Projects/Ruby Hard Way/ex48/tests/test_ex48.rb",
+		"/Users/misternu/Documents/Projects/Ruby Hard Way/ex48/ex48.gemspec",
+		"/Users/misternu/Documents/Projects/Ruby Hard Way/ex48/tests/test_lexicon.rb",
+		"/Users/misternu/Documents/Projects/Ruby Hard Way/ex48/lib/lexicon.rb",
+		"/Users/misternu/Documents/Projects/Ruby Hard Way/ex48/lexicon.gemspec",
+		"/Users/misternu/Documents/Projects/Ruby Hard Way/testgem/tests/test_TESTGEM.rb",
+		"/Users/misternu/Documents/Projects/Ruby Hard Way/testgem/lib/TESTGEM.rb",
+		"/Users/misternu/Documents/Projects/Ruby Hard Way/testgem/TESTGEM.gemspec",
+		"/Users/misternu/Documents/Projects/Ruby Hard Way/testgem/bin/NAME",
+		"/Users/misternu/Documents/Projects/Ruby Hard Way/testgem/Rakefile",
+		"/Users/misternu/Documents/sara letter",
+		"/Users/misternu/Documents/Projects/Ruby Hard Way/skeleton/tests/test_NAME.rb",
+		"/Users/misternu/Documents/Projects/Ruby Hard Way/skeleton/Rakefile",
+		"/Users/misternu/Documents/Projects/Ruby Hard Way/skeleton/NAME.gemspec",
+		"/Users/misternu/Documents/Projects/Ruby Hard Way/Final Project/ex43.rb",
+		"/Users/misternu/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/misternu/Documents/Projects/Javascript asteroids/js/game.js",
+		"/Users/misternu/Documents/Projects/Javascript asteroids/index.html",
+		"/Users/misternu/Documents/Projects/Ruby Hard Way/ex43.rb",
+		"/Users/misternu/Documents/Projects/Javascript ball/index.html",
+		"/Users/misternu/Documents/Projects/Javascript ball/js/game.js",
+		"/Users/misternu/Documents/Projects/Javascript/game.js",
+		"/Users/misternu/Documents/Ruby Hard Way/ex43.rb",
+		"/Users/misternu/Documents/Ruby Hard Way/ex43",
+		"/Users/misternu/Documents/Ruby Hard Way/wow",
+		"/Users/misternu/Documents/Ruby Hard Way/ex25.rb",
+		"/Users/misternu/Documents/Ruby Hard Way/ex24.rb",
+		"/Users/misternu/Documents/Ruby Hard Way/ex16.rb",
+		"/Users/misternu/Documents/Ruby Hard Way/ex15.rb",
+		"/Users/misternu/Documents/Ruby Hard Way/ex15_sample.txt",
+		"/Users/misternu/Documents/Ruby Hard Way/ex14.rb",
+		"/Users/misternu/Documents/Ruby Hard Way/ex13.rb",
+		"/Users/misternu/Documents/lunche.gs",
+		"/Users/misternu/Documents/lunche2.js",
+		"/Users/misternu/Documents/application answers",
+		"/Users/misternu/Downloads/puzzles-20150714.5e1c335/lightup.c",
+		"/Users/misternu/Downloads/puzzles-20150714.5e1c335/blackbox.c",
+		"/Users/misternu/Documents/sara letter 2",
+		"/Users/misternu/Documents/barcodes 2015/extractor.py",
+		"/Users/misternu/Downloads/extractor.py",
+		"/Users/misternu/Downloads/barcodes",
+		"/Users/misternu/Documents/Items unaccounted for.html"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"font-family: Courier;",
+			"DEATH",
+			"death",
+			"=>\n",
+			"      =>",
+			":",
+			"color:white;",
+			"GENERIC_DEATH",
+			"generic",
+			"gothon",
+			"room_name",
+			"generic",
+			"puts",
+			"*",
+			"window",
+			"new",
+			"alive",
+			"dead",
+			"thrust",
+			"shoot",
+			"ship",
+			"exit",
+			"next_scene",
+			"if",
+			"ball",
+			"hero",
+			"tab",
+			"armory",
+			"laserweapon",
+			"solver",
+			"file"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "gothonweb.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"map",
+				"lib/gothonweb/map.rb"
+			],
+			[
+				"app",
+				"bin/app.rb"
+			],
+			[
+				"erb",
+				"views/show_room.erb"
+			],
+			[
+				"show",
+				"views/show_room.erb"
+			],
+			[
+				"test",
+				"tests/test_map.rb"
+			],
+			[
+				"css",
+				"static/css/style.css"
+			],
+			[
+				"",
+				"views/show_room.erb"
+			],
+			[
+				"died",
+				"views/you_died.erb"
+			],
+			[
+				"lao",
+				"gothonweb/views/layout.erb"
+			],
+			[
+				"ex",
+				"ex43.rb"
+			],
+			[
+				"par",
+				"lib/ex48/parser.rb"
+			],
+			[
+				"name",
+				"bin/NAME"
+			],
+			[
+				"ex43",
+				"ex43.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 168.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}

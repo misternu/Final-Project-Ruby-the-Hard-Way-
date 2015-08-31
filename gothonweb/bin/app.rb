@@ -10,8 +10,8 @@ set :session_secret, 'BADSECRET'
 
 get '/' do
 	session[:room] = 'START'
-	session[:passcode] = "#{rand(1..9)}#{rand(1..9)}#{rand(1..9)}"
-	session[:escape_pod] = "#{rand(1..5)}"
+	# session[:passcode] = "#{rand(1..9)}#{rand(1..9)}#{rand(1..9)}"
+	# session[:escape_pod] = "#{rand(1..5)}"
 	redirect to('/game')
 end
 
